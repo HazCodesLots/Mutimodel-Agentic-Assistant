@@ -1,6 +1,14 @@
 # Tessa - Multimodel Agentic Assitant
-Tessa is a context-aware multimodal assitant powered by three different LLM combinations paired with OCR and BLIP <br>
-<br>
+Tessa is a context-aware multimodal assitant powered by three different LLM combinations paired with OCR and BLIP<br>
+
+Qwen1.5-1.8B-Chat - https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat-GGUF/tree/main<br>
+OpenHermes-2.5-mistral-7b - https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B/tree/main<br>
+Phi-2 - https://huggingface.co/microsoft/phi-2/tree/main<br>
+
+Qwen2.5-coder-1.5B - https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct/tree/main<br>
+Deepseek-coder-6.7b-instruct - https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct/tree/main<br>
+Deepseek-coder-1.3b-instruct - https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-instruct/tree/main<br>
+ 
 🗨️ Natural Language & Code Chat <br>
 <br>
 Chat: Dialogue and general-purpose question answering, powered by qwen1.5-1.8B-Chat, openhermes-2.5-mistral-7b.Q4_K_M.gguf, phi-2.Q4_K_M.gguf <br>
