@@ -1,8 +1,8 @@
 # Tessa - Multimodel Agentic Assitant
 TESSA is a multimodal multilingual language teacher and research assistant with **Optical Character Recognition(OCR)** and **Retrieval-Augmented Generation(RAG)**, offering optimized LLM configurations for on-device deployment<br>
 
-DeepSeekOCR ([Paper](https://arxiv.org/abs/2510.18234)) - High-compression OCR using DeepEncoder (vision encoder) and DeepSeek3B-MoE-A570M (decoder)  | (pending PyTorch CUDA 12.4 stable release for sm_120 support)
-FAISS-RAG ([Paper](https://arxiv.org/abs/2005.11401)) - Retrieval-augmented generation with EasyOCR extraction, Sentence-BERT embeddings, and FAISS L2 similarity search for PDF question answering
+DeepSeekOCR ([Paper](https://arxiv.org/abs/2510.18234)) - High-compression OCR using DeepEncoder (vision encoder) and DeepSeek3B-MoE-A570M (decoder)  | (pending PyTorch CUDA 12.4 stable release for sm_120 support)  
+FAISS-RAG ([Paper](https://arxiv.org/abs/2005.11401)) - Retrieval-augmented generation with EasyOCR extraction, Sentence-BERT embeddings, and FAISS L2 similarity search for PDF question answering  
 
 
 ## 📂 Repository Structure
