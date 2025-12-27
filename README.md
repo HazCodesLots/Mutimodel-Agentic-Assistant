@@ -15,8 +15,8 @@ TESSA is a multimodal and multilingual research assistant with OCR (Optical Char
 <img width="1885" height="114" alt="Screenshot 2025-12-24 142434" src="https://github.com/user-attachments/assets/8a92f70d-416f-41d1-a988-0eec5918ea9a" />
 
 ### Google Colab T4
-[Phi-2](https://huggingface.co/microsoft/phi-2/tree/main) - Default routed LLM | Google Colab T4 |
-[Deepseek-coder-6.7b-instruct](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct/tree/main) - Coding Mode LLM | Google Colab T4 |
+[Phi-2](https://huggingface.co/microsoft/phi-2/tree/main) - Default routed LLM | Google Colab T4 |  
+[Deepseek-coder-6.7b-instruct](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct/tree/main) - Coding Mode LLM | Google Colab T4 |  
 
 ### 4GB VRAM Configuration
 [Qwen1.5-1.8B-Chat](https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat-GGUF/tree/main) - Default routed LLM | 4GB VRAM |  
