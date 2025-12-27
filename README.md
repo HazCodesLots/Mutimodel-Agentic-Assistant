@@ -19,11 +19,11 @@ TESSA is a multimodal and multilingual research assistant with OCR (Optical Char
 [Deepseek-coder-6.7b-instruct](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct/tree/main) - Coding Mode LLM | Google Colab T4 |
 
 ### 4GB VRAM Configuration
-[Qwen1.5-1.8B-Chat](https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat-GGUF/tree/main) - Default routed LLM | 4GB VRAM |
-[OpenHermes-2.5-mistral-7b](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B/tree/main) - Default routed LLM | 4GB VRAM |
+[Qwen1.5-1.8B-Chat](https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat-GGUF/tree/main) - Default routed LLM | 4GB VRAM |  
+[OpenHermes-2.5-mistral-7b](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B/tree/main) - Default routed LLM | 4GB VRAM |  
 
-[Qwen2.5-coder-1.5B](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct/tree/main) - Coding Mode LLM | 4GB VRAM |
-[Deepseek-coder-1.3b-instruct](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-instruct/tree/main) - Coding Mode LLM | 4GB VRAM |
+[Qwen2.5-coder-1.5B](https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct/tree/main) - Coding Mode LLM | 4GB VRAM |  
+[Deepseek-coder-1.3b-instruct](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-instruct/tree/main) - Coding Mode LLM | 4GB VRAM |  
 
 #### Config
 <img width="1284" height="1255" alt="image" src="https://github.com/user-attachments/assets/5f0f337f-88ac-423a-a37e-d1f71bd3ac46" />
